@@ -14,13 +14,10 @@ Clean, hospital-themed GUI for ease of use
 Getting Started
 
 Requirements:
-Java 8+
-Swing (included with Java SE)
+Java 8+, Swing (included with Java SE)
 
 How to Run:
-Clone/download the repository
-Open in your Java IDE (e.g., IntelliJ IDEA, Eclipse)
-Run Main.java to launch MediTracker
+Clone/download the repository, Open in your Java IDE (e.g., IntelliJ IDEA, Eclipse), Run Main.java to launch MediTracker
 
 
 Usage
